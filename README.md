@@ -24,7 +24,7 @@ I am proficient in several essential tools and technologies for data analysis:
 
 ### Featured Projects
 
-In this portfolio, you will find a collection of projects that demonstrate my skills in creating dashboards, data analysis, and using SQL. Each project includes datasets, interactive reports, and detailed documentation to facilitate understanding and reproduction of the results.
+In this portfolio, you will find a collection of projects that demonstrate my skills in creating dashboards, data analysis, and using sql. Each project includes datasets, interactive reports, and detailed documentation to facilitate understanding and reproduction of the results.
 
 ### Contact
 
