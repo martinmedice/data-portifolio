@@ -32,4 +32,4 @@ This project consists of an interactive dashboard for e-commerce sales analysis,
 3. Explore the visualizations and interact with the date filters.
 
 ## Screenshots
-![Dashboard Overview] (Dashboards/OnlineRetailDataset/Screenshot.png)
+![](Dashboards/OnlineRetailDataset/Screenshot.png)
