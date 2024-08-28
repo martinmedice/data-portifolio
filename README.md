@@ -1,4 +1,5 @@
-# Martin Medice Marchelle - Data Analyst
+# Data Analyst
+**Technical Skills: Python, SQL, PowerBI, Excel/Google Sheets**
 
 ## About Me
 
