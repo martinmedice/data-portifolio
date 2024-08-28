@@ -3,6 +3,10 @@
 ## Overview
 This project consists of an interactive dashboard for analyzing sales using the Brazilian E-commerce Public Dataset by Olist. The dataset includes tables for orders, order items, customers and products allowing for comprehensive relational analysis.
 
+![Dashboard Overview](Screenshot1.png)
+
+![Dashboard Overview](Screenshot2.png)
+
 ## Tools Used
 - PowerBI
 - Power Query Editor
@@ -53,8 +57,3 @@ To enable comprehensive analysis, the following relationships were established b
 1. Download the file `Financial_Performance_Dashboard.pbix`.
 2. Open the file in PowerBI Desktop.
 3. Explore the visualizations and interact with the date filter.
-
-## Screenshots
-![Dashboard Overview](Screenshot1.png)
-
-![Dashboard Overview](Screenshot2.png)
