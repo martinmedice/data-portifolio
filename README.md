@@ -16,7 +16,9 @@ I have worked as a Business Analyst in various teams, including the Payments Ant
 
 **[PROJECT 1: CAR PRICE CALCULATOR USING MACHINE LEARNING](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression)**
 
-Descrição Resumida: O que o projeto faz, qual foi o objetivo e o que ele demonstra em termos de habilidades.<br>
+This project focuses on predicting the price of used cars using a machine learning model. The model is trained on the dataset of used cars and aims to provide accurate price estimates based on various features such as the year of the car, mileage, condition, and more. The prediction application is built using Streamlit, allowing users to input car details and receive price predictions.
+[](https://github.com/martinmedice/Car-Price-Prediction-ML-Regression/blob/main/images/car_prediction_screenshot.png)
+
 Tecnologias Utilizadas: Quais linguagens, ferramentas e bibliotecas você usou (ex: Python, SQL, PowerBI, etc.).<br>
 Link para o Repositório: Onde o código está hospedado no GitHub.<br>
 Gráficos, Dashboards ou Resultados: Você tem visualizações ou resultados que queira incluir no portfólio?<br>
